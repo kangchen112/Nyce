@@ -4,6 +4,7 @@ namespace AG1916
 {
     public class HoverEffect : MonoBehaviour
     {
+        
         public float amplitude = 0.5f; // How high it moves
         public float speed = 2f;      // How fast it moves
 
